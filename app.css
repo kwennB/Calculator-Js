@@ -1,0 +1,45 @@
+*{
+    color: #555;
+}
+body{
+    background-color: rgb(15, 147, 199);
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 30rem;
+    height: 20rem;
+    background-color: #fff9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+table{
+    width: 100%;
+     border-color: #b4b0b0;
+}  
+
+td{
+    width: 25%;
+}
+
+button{
+    width: 100%;
+    height: 40%;
+    font-size: 2rem;
+    background-color: rgb(192, 190, 185);
+    border: none;
+    border-radius: 100px;
+    outline: none;
+}
+
+#inputLabel{
+    height: 5rem; 
+    font-size: 3rem;
+    vertical-align: bottom;
+    padding-right: 1rem;
+    text-align: right;
+    background-color: rgb(235, 235, 241);
+} 
